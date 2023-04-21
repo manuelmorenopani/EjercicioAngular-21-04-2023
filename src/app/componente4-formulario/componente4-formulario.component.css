@@ -1,0 +1,10 @@
+.Formulario{
+    padding-left: 10%;
+    padding-right: 10%;
+    margin: auto;
+    margin-top: 2%;
+}
+.card{
+    margin-top: 1%;
+    background: rgba(0, 0, 0, 0.194);
+}
